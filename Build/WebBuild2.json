@@ -1,0 +1,14 @@
+{
+"companyName": "PB Games",
+"productName": "DunGen BETA",
+"dataUrl": "WebBuild2.data.unityweb",
+"asmCodeUrl": "WebBuild2.asm.code.unityweb",
+"asmMemoryUrl": "WebBuild2.asm.memory.unityweb",
+"asmFrameworkUrl": "WebBuild2.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebBuild2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
